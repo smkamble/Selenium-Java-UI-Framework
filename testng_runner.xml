@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="stackoverflow" verbose="1">
+
+    <test name="Stackoverflow Automated Tests">
+        <packages>
+            <package name=".*"></package>
+        </packages>
+    </test>
+
+</suite>
