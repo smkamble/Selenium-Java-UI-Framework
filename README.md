@@ -32,7 +32,7 @@ Java installed and setup
 ### Prerequisite:
 * Download and install Chrome browser.
 * Download and install Java:
-  * [Install Node.JS](https://www.oracle.com/in/java/technologies/javase-downloads.html  "Install Java")
+  * [Install Java](https://www.oracle.com/in/java/technologies/javase-downloads.html  "Install Java")
 * Download and install any Text Editor like Intellij
   * [Install Intellij](https://www.jetbrains.com/idea/download/ "Install Intellij")
 ```
